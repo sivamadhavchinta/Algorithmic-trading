@@ -2,17 +2,24 @@
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
-2. [Usage](#usage)
-3. [Data Retrieval and Preprocessing](#data-retrieval-and-preprocessing)
-4. [Algorithm and Model Development](#algorithm-and-model-development)
-5. [Real-Time Performance Tracking](#real-time-performance-tracking)
-6. [Top 5 Stock Recommendations](#top-5-stock-recommendations)
-7. [Portfolio Management](#portfolio-management)
-8. [Performance Evaluation](#performance-evaluation)
-9. [Technologies and Tools](#technologies-and-tools)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Data Retrieval and Preprocessing](#data-retrieval-and-preprocessing)
+5. [Algorithm and Model Development](#algorithm-and-model-development)
+6. [Real-Time Performance Tracking](#real-time-performance-tracking)
+7. [Top 5 Stock Recommendations](#top-5-stock-recommendations)
+8. [Portfolio Management](#portfolio-management)
+9. [Performance Evaluation](#performance-evaluation)
+10. [Technologies and Tools](#technologies-and-tools)
 
 ## Project Overview
 The Nifty 50 Stock Analysis Project is a data-driven financial analysis tool that evaluates the real-time and historical performance of all Nifty 50 stocks. The project aims to provide investment recommendations by assigning a final position value to each stock, indicating its current performance. The system also manages a portfolio of recommended stocks and generates exit signals when appropriate.
+
+
+## Installation
+- Clone this repository to your local machine using `git clone https://github.com/sivamadhavchinta/Algorithmic-trading.git'
+- Install the required dependencies using `pip install -r requirements.txt`
+
 
 ## Usage
 - Run the main analysis script: `python ta.py` after installing the required libraries.
