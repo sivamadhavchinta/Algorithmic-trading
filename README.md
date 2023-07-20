@@ -15,7 +15,7 @@
 The Nifty 50 Stock Analysis Project is a data-driven financial analysis tool that evaluates the real-time and historical performance of all Nifty 50 stocks. The project aims to provide investment recommendations by assigning a final position value to each stock, indicating its current performance. The system also manages a portfolio of recommended stocks and generates exit signals when appropriate.
 
 ## Usage
-- Run the main analysis script: `python ta.py`
+- Run the main analysis script: `python ta.py` after installing the required libraries.
 - The script will fetch real-time and historical data for Nifty 50 stocks, analyze their performance, and provide the top 5 stock recommendations.
 
 ## Data Retrieval and Preprocessing
