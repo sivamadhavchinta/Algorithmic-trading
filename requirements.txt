@@ -1,0 +1,7 @@
+tvDatafeed
+pandas
+numpy
+talib
+time
+pywhatkit
+mplfinance
